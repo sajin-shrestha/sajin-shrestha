@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sajin_sth59" target="blank"><img src="https://img.shields.io/twitter/follow/sajin_sth59?logo=twitter&style=for-the-badge" alt="sajin_sth59" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Golang and Rust**
 
 - 💬 Ask me about **MERN, Golang**
 
