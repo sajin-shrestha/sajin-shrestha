@@ -11,6 +11,7 @@
 - 💬 Ask me about **MERN, Golang**
 
 - 📫 How to reach me **shresthasajin59@gmail.com**
+- **sajinxtha1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
