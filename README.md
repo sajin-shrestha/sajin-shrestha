@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently enrolled in ** college **
+ 🔭 I’m currently enrolled in ** Samriddhi College **
  
  🌱 I’m currently learning **Golang and docker**
 
