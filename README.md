@@ -16,7 +16,7 @@
 
 💬 Ask me about **React, Node.js, golang... or anything [here](https://github.com/sajin-shrestha/sajin-shrestha/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Nothing is as permanent as a temporary solution that works**
 
  </div>
  
