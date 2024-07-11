@@ -47,7 +47,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍 and ⚡ Stats ⚡</h2>
   <br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajin-shrestha&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=10&theme=radical" alt="sajin-shrestha" /></p>
+<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajin-shrestha&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=10&theme=radical" alt="sajin-shrestha" /></p> -->
+    <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajin-shrestha&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=10&theme=radical&cache_buster=<?php echo time(); ?>" alt="sajin-shrestha" />
+</p>
+
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajin-shrestha&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="sajin-shrestha" /></p>
 
 </div>
