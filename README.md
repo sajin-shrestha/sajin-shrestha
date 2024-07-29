@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 ** Student || Full-Stack Developer || React || Golang**
+ ** Student || Full-Stack Developer || React || Golang**
  
- 🌱 I’m currently learning **Golang and docker**
+ 🌱 I’m currently learning **Golang and Docker**
 
 💬 Ask me about **React, Node.js, golang... or anything [here](https://github.com/sajin-shrestha/sajin-shrestha/issues)**
 
