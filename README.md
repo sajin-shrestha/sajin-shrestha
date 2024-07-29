@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently enrolled in ** Samriddhi College, Nepal **
+ 🔭 ** Student || Full-Stack Developer || React || Golang**
  
  🌱 I’m currently learning **Golang and docker**
 
