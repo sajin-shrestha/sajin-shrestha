@@ -10,9 +10,9 @@
 
 <div align="center">
  
- ** Student || Full-Stack Developer || React || Golang**
+ **Full-Stack Developer || React || Node/Express || Golang || Python**
  
- 🌱 I’m currently learning **Golang and Docker**
+ 🌱 I’m currently working as a software developer in **Data Construct Pvt Ltd**
 
 💬 Ask me about **React, Node.js, golang... or anything [here](https://github.com/sajin-shrestha/sajin-shrestha/issues)**
 
