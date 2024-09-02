@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sajin Shrestha</h1>
-<h3 align="center">A passionate Software Developer from Nepal</h3>
+<h1 align="left">Hi 👋, I'm Sajin Shrestha</h1>
+<h3 align="left">A passionate Software Developer from Nepal</h3>
 
 <p align="left"> <a href="https://github.com/sajin-shrestha/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajin-shrestha&theme=onedark&title=-Issues,-PullRequest,-Reviews" alt="sajin-shrestha" /></a> </p>
 
