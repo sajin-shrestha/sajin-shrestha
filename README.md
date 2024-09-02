@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajin Shrestha</h1>
 <h3 align="center">A passionate Software Developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajin-shrestha&label=Profile%20views&color=0e75b6&style=flat" alt="sajin-shrestha" /> </p>
-
 <p align="left"> <a href="https://github.com/sajin-shrestha/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajin-shrestha&theme=onedark&title=-Issues,-PullRequest,-Reviews" alt="sajin-shrestha" /></a> </p>
 
 - 🔭 I’m currently working as a **Software Developer in Data Construct.**
