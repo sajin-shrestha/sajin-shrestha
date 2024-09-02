@@ -1,57 +1,31 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sajin-shrestha.sajin-shrestha" />
+<h1 align="center">Hi 👋, I'm Sajin Shrestha</h1>
+<h3 align="center">A passionate Software Developer from Nepal</h3>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sajin+Shrestha!;" />
-</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajin-shrestha&label=Profile%20views&color=0e75b6&style=flat" alt="sajin-shrestha" /> </p>
 
-<h3 align="center">A passionate software developer from Nepal </h3>
+<p align="left"> <a href="https://github.com/sajin-shrestha/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajin-shrestha&theme=onedark&title=-Issues,-PullRequest,-Reviews" alt="sajin-shrestha" /></a> </p>
 
-<br/>
+- 🔭 I’m currently working as a **Software Developer in Data Construct.**
 
-<div align="center">
- 
- **Full-Stack Developer || React || Node/Express || Golang || Python**
- 
- 🌱 I’m currently working as a software developer in **Data Construct Pvt Ltd**
+- 🌱 I’m currently learning **Django**
 
-💬 Ask me about **React, Node.js, golang... or anything [here](https://github.com/sajin-shrestha/sajin-shrestha/issues)**
+- 💬 Ask me about **React, Typescript**
 
-⚡ Fun fact **Nothing is as permanent as a temporary solution that works**
+- 📫 How to reach me **contact.sajinshrestha@gmail.com**
 
- </div>
- 
-<div align="center"> 
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shresthasajin59@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-</a>
-  <a href="https://www.linkedin.com/in/sajin-shrestha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://sajin-shrestha.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+- ⚡ Fun fact **Nothing is as permanent as a temporary solution that works**
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,go,javascript,typescript,express,firebase,mongodb,c,java,mysql,python" /><br>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sajin-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajin-shrestha" height="30" width="40" /></a>
+<a href="https://fb.com/sajin.shrestha.733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajin.shrestha.733" height="30" width="40" /></a>
+</p>
 
-<br/>
-<hr/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍 and ⚡ Stats ⚡</h2>
-  <br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajin-shrestha&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=10&theme=radical" alt="sajin-shrestha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajin-shrestha&show_icons=true&locale=en&layout=compact" alt="sajin-shrestha" /></p>
 
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sajin-shrestha&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="sajin-shrestha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajin-shrestha&show_icons=true&locale=en" alt="sajin-shrestha" /></p>
 
-</div>
-
-<br/>
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajin-shrestha&" alt="sajin-shrestha" /></p>
