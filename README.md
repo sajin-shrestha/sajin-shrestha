@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/sajin-shrestha/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajin-shrestha&theme=onedark&title=-Issues,-PullRequest,-Reviews" alt="sajin-shrestha" /></a> </p>
 
-- 🔭 I’m currently working as a software developer in **Data Construct Pvt Ltd**
+- 🔭 I’m currently working as a software developer in **<a href=""https://www.linkedin.com/company/data-construct-pvt-ltd/posts/?feedView=all>Data Construct Pvt Ltd</a>**
 
 - 🌱 I’m currently learning **Django**
 
