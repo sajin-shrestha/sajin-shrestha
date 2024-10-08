@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a software developer in [**Data Construct Pvt Ltd**](https://www.linkedin.com/company/data-construct-pvt-ltd/posts/?feedView=all)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **React, Typescript**
 
