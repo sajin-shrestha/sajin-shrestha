@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript">
   <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" alt="TypeScript">
   <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React">
+  <img src="https://img.shields.io/badge/-Next.js-000?&logo=Next.js" alt="Next.js">
   <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/-Express-000?&logo=Express" alt="Express">
   <img src="https://img.shields.io/badge/-Go-000?&logo=Go" alt="Go">
