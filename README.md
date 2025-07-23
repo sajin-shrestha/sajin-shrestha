@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajin-shrestha&show_icons=true&locale=en" alt="sajin-shrestha" /></p>
 
-![](https://github-contributor-stats.vercel.app/api?username=sajin-shrestha&limit=5&theme=light&combine_all_yearly_contributions=true)
+<!--![](https://github-contributor-stats.vercel.app/api?username=sajin-shrestha&limit=5&theme=light&combine_all_yearly_contributions=true)-->
